@@ -6,7 +6,7 @@ O **Git Bash** é um terminal estendido para otimizar o uso do Git.
 
 Usando **Git Bash Here** em um diretório, o terminal irá abrir já com o caminho daquele diretório correspondente.
 
-## Comando Úteis
+## Comandos Úteis
 
 - git init (cria novo repositório)
 - git status (mostra estado do arquivo/diretório)
